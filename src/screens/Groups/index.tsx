@@ -30,7 +30,7 @@ export function Groups() {
           />
         )}
       />
-      <Button title="Criar nova turma" />
+      <Button title="Criar nova turma" type="PRIMARY" />
     </S.Container>
   );
 }
